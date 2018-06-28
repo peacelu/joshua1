@@ -1,1 +1,1 @@
-tongtonghao
+print("hello world")
